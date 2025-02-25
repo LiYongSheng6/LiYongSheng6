@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
+
 **LiYongSheng6/LiYongSheng6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on programming studing
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: lys3229696977@163.com
+
+The following is my Chinese introduction:
+
+* 兴趣爱好：喜欢科普技术类资讯，关注数码影视等相关内容，平时喜欢看一些作品赏析解说
+* 学习方面：编程语言目前掌握c，Java，Go，正学习Python中。
+* 个人目标：成为一名优秀的后端开发工程师
